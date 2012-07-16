@@ -1,0 +1,37 @@
+<resources>
+    <string-array name="keyboard_layout_array">
+        <item>@string/kbl_arabic</item>
+        <item>@string/kbl_azerty</item>
+        <item>@string/kbl_bopomofo</item>
+        <item>@string/kbl_cyrillic</item>
+        <item>@string/kbl_greek</item>
+        <item>@string/kbl_hebrew</item>
+        <item>@string/kbl_korean</item>
+        <item>@string/kbl_qwertyBR</item>
+        <item>@string/kbl_qwertyCNHK</item>
+        <item>@string/kbl_qwertyEN</item>
+        <item>@string/kbl_qwertyJP</item>
+        <item>@string/kbl_qwertyNODK</item>
+        <item>@string/kbl_qwertySEFI</item>
+        <item>@string/kbl_qwertz</item>
+        <item>@string/kbl_thai</item>
+    </string-array>
+
+    <string-array name="keyboard_layout_array_values">
+         <item>ARABIC</item>
+         <item>AZERTY</item>
+         <item>BOPOMOFO</item>
+         <item>CYRILLIC</item>
+         <item>GREEK</item>
+         <item>HEBREW</item>
+         <item>KOREAN</item>
+         <item>QWERTYBR</item>
+         <item>QWERTYCNHK</item>
+         <item>QWERTYEN</item>
+         <item>QWERTYJP</item>
+         <item>QWERTYNODK</item>
+         <item>QWERTYSEFI</item>
+         <item>QWERTZ</item>
+         <item>THAI</item>
+    </string-array>
+</resources>
